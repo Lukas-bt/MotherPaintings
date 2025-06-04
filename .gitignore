@@ -1,0 +1,42 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# local env overrides
+.env
+
+# testing
+/coverage
+
+# parcel-bundler cache (if you use it)
+/.cache
+
+# Next.js build output (if you accidentally include)
+/.next

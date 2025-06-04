@@ -1,0 +1,23 @@
+
+nav > .navbar {
+  display:flex;
+  margin: 0;
+  
+}
+
+nav > .navbar > li {
+  display: block;
+  margin: 0 5px 0 10px;
+  margin-right: 10px;
+  padding: 12px 0 12px 0;
+}
+
+nav > .navbar > li > a {
+  font-weight: bold;
+  color:white
+}
+
+nav {
+  background-color: #1e1f1e;
+}
+

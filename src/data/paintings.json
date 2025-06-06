@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Peinture 1",
+        "year": 2025,
+        "type": "Aquarelle",
+        "dimensions": "60x80cm",
+        "description": "Peinture test",
+        "img": "peinture1.jpg"
+    }
+]

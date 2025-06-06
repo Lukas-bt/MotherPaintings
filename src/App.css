@@ -5,19 +5,37 @@ nav > .navbar {
   
 }
 
+
+
 nav > .navbar > li {
   display: block;
-  margin: 0 5px 0 10px;
-  margin-right: 10px;
+  margin: 0 0.5em 0 1em;
+  margin-right: 15px;
   padding: 12px 0 12px 0;
 }
 
 nav > .navbar > li > a {
   font-weight: bold;
-  color:white
+  color:white;
+  font-size: large;
 }
 
 nav {
   background-color: #1e1f1e;
+}
+
+nav > ul > li > a {
+  text-decoration: none;
+}
+#navRight {
+  margin-right: 2em;
+}
+
+.spacer {
+  margin-left: auto;
+}
+
+.paintCard {
+  border: black 3px;
 }
 

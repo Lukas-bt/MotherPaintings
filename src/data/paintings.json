@@ -6,5 +6,13 @@
         "dimensions": "60x80cm",
         "description": "Peinture test",
         "img": "peinture1.jpg"
+    },
+    {
+        "name": "Peinture 2",
+        "year": 2025,
+        "type": "Huile",
+        "dimensions": "60x80cm",
+        "description": "Peinture test",
+        "img": "peinture2.jpg"
     }
 ]

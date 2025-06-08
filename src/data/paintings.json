@@ -2,17 +2,33 @@
     {
         "name": "Peinture 1",
         "year": 2025,
-        "type": "Aquarelle",
+        "type": "Huile",
         "dimensions": "60x80cm",
         "description": "Peinture test",
-        "img": "peinture1.jpg"
+        "img": "peinture1.png"
     },
     {
         "name": "Peinture 2",
         "year": 2025,
+        "type": "Aquarelle",
+        "dimensions": "60x80cm",
+        "description": "Peinture test",
+        "img": "peinture2.png"
+    },
+    {
+        "name": "Peinture 3",
+        "year": 2024,
         "type": "Huile",
         "dimensions": "60x80cm",
         "description": "Peinture test",
-        "img": "peinture2.jpg"
+        "img": "peinture3.png"
+    },
+    {
+        "name": "Peinture 4",
+        "year": 2025,
+        "type": "Aquarelle",
+        "dimensions": "60x80cm",
+        "description": "Peinture test",
+        "img": "peinture4.png"
     }
 ]

@@ -1,22 +1,20 @@
 export default function PaintingCard({ infos }) {
-
     return (
-        <div className="p-7">
-            <div className="w-full h-64 overflow-hidden mt-auto mb-auto">
+        <div className="bg-white rounded-2xl shadow-lg overflow-hidden transition-transform hover:scale-105 duration-300">
+            
+            <div className="h-64 w-full overflow-hidden">
                 <img
-                    className="w-full h-full object-contain"
+                    className="h-full w-full object-cover transition-transform duration-300"
                     src={"./images/" + infos.img}
                     alt={infos.name}
                 />
             </div>
-            <h1 className="text-2xl text-center mt-3">
-                {infos.name}
-            </h1>
-            <h2 className="text-center text-gray-700 italic">
-                {infos.year}
-            </h2>
+            
+            <div className="p-4">
+
+                <h1 className="text-xl font-semibold text-center text-gray-900">{infos.name}</h1>
+                <div className="mt-1 text-center text-sm text-gray-500 italic">{infos.year}</div>
+            </div>
         </div>
-
-    )
-
+    );
 }

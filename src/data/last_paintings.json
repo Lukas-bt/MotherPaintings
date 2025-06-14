@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Peinture 4",
+        "year": 2025,
+        "type": "Aquarelle",
+        "dimensions": "60x80cm",
+        "description": "Peinture test",
+        "img": "peinture4.png"
+    },
+    {
+        "name": "Peinture 4",
+        "year": 2025,
+        "type": "Aquarelle",
+        "dimensions": "60x80cm",
+        "description": "Peinture test",
+        "img": "peinture4.png"
+    },
+    {
+        "name": "Peinture 4",
+        "year": 2025,
+        "type": "Aquarelle",
+        "dimensions": "60x80cm",
+        "description": "Peinture test",
+        "img": "peinture4.png"
+    },
+    {
+        "name": "Peinture 4",
+        "year": 2025,
+        "type": "Aquarelle",
+        "dimensions": "60x80cm",
+        "description": "Peinture test",
+        "img": "peinture4.png"
+    },
+    {
+        "name": "Peinture 4",
+        "year": 2025,
+        "type": "Aquarelle",
+        "dimensions": "60x80cm",
+        "description": "Peinture test",
+        "img": "peinture4.png"
+    }
+]

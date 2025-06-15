@@ -10,7 +10,7 @@ export default function PaintingCard({ infos }) {
                 />
             </div>
             
-            <div className="p-4">
+            <div className="p-2">
 
                 <h1 className="text-xl font-semibold text-center text-gray-900">{infos.name}</h1>
                 <div className="mt-1 text-center text-sm text-gray-500 italic">{infos.year}</div>

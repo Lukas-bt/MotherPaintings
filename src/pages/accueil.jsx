@@ -25,7 +25,7 @@ function Accueil() {
                 </section>
                 <section className='mt-5'>
                     <h1 className='text-3xl font-bold text-center'>Dernières réalisations</h1>
-                    <div className="container mx-auto mt-10 px-4">
+                    <div className="container mx-auto mt-10 px-4 mb-4">
                         <ul className="grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
                             {
                                 lastPaintings.map((painting, index) => (

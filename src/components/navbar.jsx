@@ -6,7 +6,7 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-gray-900 px-4 py-3 text-white">
+    <nav className="bg-gray-900 px-4 py-5 text-white">
       <div className="flex items-center justify-between">
         <Link to="/" className="font-bold text-xl">
           Deveau's Paintings

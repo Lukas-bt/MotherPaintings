@@ -1,3 +1,1 @@
-# Soon
-
-## This is my first React Project, be kind !
+[Hosted Project](https://deveau-paintings.netlify.app/)
